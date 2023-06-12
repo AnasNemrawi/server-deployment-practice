@@ -1,5 +1,14 @@
 # server-deployment-practice
 
+## Links of Work
+
+Server deployed link [visit](https://server-deployment-practice-3woo.onrender.com/)
+
+Pull request link [visit](https://github.com/AnasNemrawi/server-deployment-practice/pull/1)
+
+GitHub Actions [visit](https://github.com/AnasNemrawi/server-deployment-practice/actions/workflows/node.js.yml)
+
+
 ## How to use
 
 - Clone the repo
